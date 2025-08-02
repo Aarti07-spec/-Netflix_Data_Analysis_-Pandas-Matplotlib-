@@ -20,6 +20,7 @@ The main goals of this project are:
 - To develop Python visualization and storytelling skills
 
 
+
 ## 🧰 Tools & Technologies Used
 
 | Tool/Library      | Purpose                          |
@@ -31,6 +32,7 @@ The main goals of this project are:
 | Faker (for data) | Synthetic data generation        |
 
 
+
 ## 📦 Data Source :
 CSV File: https://github.com/Aarti07-spec/-Netflix_Data_Analysis_-Pandas-Matplotlib-/blob/main/netflix_project_data_7500.csv
 
@@ -38,6 +40,7 @@ CSV File: https://github.com/Aarti07-spec/-Netflix_Data_Analysis_-Pandas-Matplot
 - Columns include:
   - `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 - Total records: **7,500**
+
 
 
 ## 📊 Project Breakdown
@@ -92,6 +95,7 @@ Jupyter Notebook: https://github.com/Aarti07-spec/-Netflix_Data_Analysis_-Pandas
 - https://github.com/Aarti07-spec/-Netflix_Data_Analysis_-Pandas-Matplotlib-/blob/main/Output%20Charts/Top%2010%20Directors.png
 
 
+
 ## 📚 Learning Outcomes
 
 Through this project, I gained:
@@ -101,6 +105,7 @@ Through this project, I gained:
 - Knowledge of working with **categorical and temporal data**
 - Practice in using **Jupyter Notebooks** for structured analysis
 - Understanding of content trends and platform dynamics
+
 
 
 ## ✅ Conclusion
@@ -115,6 +120,7 @@ It also demonstrates the importance of **visual exploration** in uncovering mean
 
 
 
+
 ## 🤝 Feedback & Contributions
 
 If you found this project useful, feel free to ⭐️ **star** the repository.
@@ -122,8 +128,9 @@ If you found this project useful, feel free to ⭐️ **star** the repository.
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or add.
 
 
+
 ## 👤 Author
 
 **Aarti_Lamkhade**  
-📧 aartilamkhade72@gmail.com
+📧 aartilamkhade72@gmail.com<br>
 🔗 https://www.linkedin.com/in/aarti-lamkhade-0b1156313/
